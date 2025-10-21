@@ -1,5 +1,7 @@
 # SmartReserve - AI Voice Assistant for Restaurant Bookings
 
+<img src="https://github.com/gaxxrav/smart-reserve/blob/main/flowchart.png" alt="Architecture diagram" width="700">
+
 SmartReserve is an AI-powered voice assistant that automatically handles restaurant phone calls and manages bookings. It integrates Twilio for voice processing, Dialogflow for intent recognition, and Google Gemini for natural conversation generation.
 
 ## 🚀 Features
